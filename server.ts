@@ -17,9 +17,7 @@ const server = createServer((req, res) => {
       <body>
         <h1>TypeScript Task Management System</h1>
 
-        <p>
-          Application successfully deployed with TypeScript and Node.js.
-        </p>
+        <p>Application successfully deployed with TypeScript and Node.js.</p>
 
         <h2>Project Features</h2>
 
